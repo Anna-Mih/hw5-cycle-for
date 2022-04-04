@@ -14,7 +14,7 @@ class SQRServiceTest {
                     "'interval -200-(-100)',-200,-100,0",
                     "'interval -200-200',-200,200,5",
                     "'interval 0-1_000_000',0,1000000,90",
-                    "'interval -100-0',-100,100,1"
+                    "'interval -100-100',-100,100,1"
             },
             delimiter = ','
     )
